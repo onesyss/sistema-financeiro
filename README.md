@@ -6,8 +6,12 @@ Para rodar o projeto instale
 
 ### `yarn install`
 
-Após isso use o 
+Após isso use o comando a baixo para funcionar o sistema
 
 ### `yarn start`
+
+Você pode acessa-lo também no link
+
+### https://sistema-financeiro.netlify.app/
 
 
